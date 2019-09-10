@@ -1,4 +1,4 @@
-# MMGenLive
+# MMGenLive 
 
 MMGenLive is a fully functional Linux system on a USB stick with the [MMGen
 online/offline Bitcoin wallet][6], Bitcoin Core and related programs preinstalled.
